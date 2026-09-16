@@ -1,0 +1,15 @@
+{
+  "name": "RainPrediction_Codesis",
+  "slug": "rainprediction_codesis",
+  "status": "active",
+  "securities": [],
+  "sources": [
+    "rainfall in india 1901-2015.csv",
+    "district_wise_rainfall_normal.csv",
+    "rainfall_in_india_1901_2015_cleaned.csv",
+    "district_wise_rainfall_normal_cleaned.csv",
+    "rainfall_in_india_features.csv"
+  ],
+  "createdAt": "2026-09-16T12:04:53.336Z",
+  "updatedAt": "2026-09-16T23:58:00.000Z"
+}

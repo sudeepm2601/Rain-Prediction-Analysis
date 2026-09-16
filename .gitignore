@@ -1,0 +1,13 @@
+.clario/
+.cursor/
+.agents/
+.mcp.json
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+.windsurfrules
+AGENT.md
+CLAUDE.md

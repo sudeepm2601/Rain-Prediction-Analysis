@@ -1,0 +1,27 @@
+{
+  "name": "Canvas 1",
+  "elements": [
+    {
+      "id": "frame_rain_prediction_dashboard",
+      "type": "frame",
+      "position": {
+        "x": 60,
+        "y": 60
+      },
+      "size": {
+        "width": 1380,
+        "height": 920
+      },
+      "data": {
+        "title": "Interactive Rain Prediction & Climate Dashboard",
+        "file": ".clario/frames/rain_prediction_dashboard.html"
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 0.9
+  }
+}
